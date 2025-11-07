@@ -1,6 +1,3 @@
-# Inventory Management and Supply Chain Strategy Analysis
-This project presents an in-depth data-driven analysis of a company's operations in the horticulture and waste management sector, focusing on the impact of product variety, color options, and operational strategies on profitability.
-
 ## 📁 Project Structure
 
 - data/DAEXCELN0985928_BUSI49152.xlsx: Raw and cleaned data including product features, costs, and historical sales.
@@ -28,4 +25,5 @@ MSc Management & Business Analytics –
 📍 Nottingham, UK  
 
 📧 cisealaca@icloud.com
+
 
