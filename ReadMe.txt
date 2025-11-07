@@ -1,6 +1,6 @@
 # Inventory Management and Supply Chain Strategy Analysis
 
-This project was created as part of the MSc Management and Business Analytics program at Nottingham Trent University. It presents an in-depth data-driven analysis of a company's operations in the horticulture and waste management sector, focusing on the impact of product variety, color options, and operational strategies on profitability.
+This project presents an in-depth data-driven analysis of a company's operations in the horticulture and waste management sector, focusing on the impact of product variety, color options, and operational strategies on profitability.
 
 ## 📁 Project Structure
 
@@ -27,4 +27,5 @@ This project was created as part of the MSc Management and Business Analytics pr
 Cise Alaca  
 MSc Management & Business Analytics – 
 📍 Nottingham, UK  
+
 📧 cisealaca@icloud.com
